@@ -1,0 +1,14 @@
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\bin\Debug\net8.0\Tic Tac Toe Console Game.exe
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\bin\Debug\net8.0\Tic Tac Toe Console Game.deps.json
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\bin\Debug\net8.0\Tic Tac Toe Console Game.runtimeconfig.json
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\bin\Debug\net8.0\Tic Tac Toe Console Game.dll
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\bin\Debug\net8.0\Tic Tac Toe Console Game.pdb
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\obj\Debug\net8.0\Tic Tac Toe Console Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\obj\Debug\net8.0\Tic Tac Toe Console Game.AssemblyInfoInputs.cache
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\obj\Debug\net8.0\Tic Tac Toe Console Game.AssemblyInfo.cs
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\obj\Debug\net8.0\Tic Tac Toe Console Game.csproj.CoreCompileInputs.cache
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\obj\Debug\net8.0\Tic Tac Toe Console Game.dll
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\obj\Debug\net8.0\refint\Tic Tac Toe Console Game.dll
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\obj\Debug\net8.0\Tic Tac Toe Console Game.pdb
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\obj\Debug\net8.0\Tic Tac Toe Console Game.genruntimeconfig.cache
+D:\VS Studio Projects\Tic Tac Toe Console Game\Tic Tac Toe Console Game\obj\Debug\net8.0\ref\Tic Tac Toe Console Game.dll
